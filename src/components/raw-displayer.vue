@@ -25,7 +25,8 @@ export default {
 };
 </script>
 <style scoped>
-pre {
+pre,
+h3 {
   text-align: start;
 }
 </style>
